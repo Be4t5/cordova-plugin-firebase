@@ -14,3 +14,4 @@ dependencies {
     compile 'me.leolin:ShortcutBadger:1.1.4@aar'
     compile 'com.google.firebase:firebase-crash:15.0.0'
 }
+apply plugin: 'com.google.gms.google-services'
